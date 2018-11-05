@@ -1,0 +1,2 @@
+
+double correlation(config*,int);
